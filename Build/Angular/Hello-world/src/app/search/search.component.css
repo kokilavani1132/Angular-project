@@ -4,7 +4,7 @@ h1{
     height: 3rem;
     outline: none;
     cursor: pointer; 
-    
+    padding-left: 585px;
 }
 div{
     display: flex;
